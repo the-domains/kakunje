@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B0D8C8'
+    - '#007058'
+    - '#50A890'
+    - '#E08008'
+    - '#F8D8B0'
+  brandStrength: 0.709241
+  lightness: 0.820667
+  rhythmicContrast: 0.874639
+  saturation: 0.669072
+cta: {}
+layout_spectrum: 1
+name: Kakunje
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.711148
