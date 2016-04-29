@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kakunje]]></title>
-        <description><![CDATA[Kakunje]]></description>
+        <title><![CDATA[Kakunje Ayurveda]]></title>
+        <description><![CDATA[Kakunje Ayurveda]]></description>
         <link>https://thegrid.ai/kakunje/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 04:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 05:07:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kakunje/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/kakunje/is-ayurveda-a-science/index.html</link>
             <guid isPermaLink="false">bec6ba12-8507-4bcb-8afb-4258dc67e6b8</guid>
             <pubDate>Fri, 29 Apr 2016 04:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/kakunje/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">413f0098-d838-48e6-8e6c-fc5d55ad7d30</guid>
-            <pubDate>Wed, 16 Dec 2015 00:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
