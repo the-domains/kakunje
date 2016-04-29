@@ -4,8 +4,15 @@
         <description><![CDATA[Kakunje]]></description>
         <link>https://thegrid.ai/kakunje/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 00:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 04:18:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kakunje/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Ayurveda a Science?]]></title>
+            <description><![CDATA[<article><h1>Is Ayurveda a Science?</h1><p>Merriam Webster dictionary defines science as “knowledge about or study of the natural world based on facts learned through experiments and observation”.</p></article>]]></description>
+            <link>https://thegrid.ai/kakunje/is-ayurveda-a-science/index.html</link>
+            <guid isPermaLink="false">bec6ba12-8507-4bcb-8afb-4258dc67e6b8</guid>
+            <pubDate>Fri, 29 Apr 2016 04:18:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
